@@ -1,7 +1,13 @@
 *{
     margin:0;
     padding:0;
+   
 }
+body{
+    overflow-x: hidden;
+
+}
+
 .nav_editor{
     color:rgb(2, 131, 39);
     font-size:25px;
