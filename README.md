@@ -23,9 +23,12 @@ Your app is ready to be deployed!
 See the section about [deployment](https://facebook.github.io/create-react-app/docs/deployment) for more information.
 
 ### `npm install`
-to install the nodule module folder in your local system
+To install the nodule module folder in your local system
+### `some screenshot of website`
 
 ![Screenshot (1553)](https://user-images.githubusercontent.com/76389609/170305862-cc04e5d3-e312-49a7-9382-19946545d07a.png)
+
+
 ![Screenshot (1551)](https://user-images.githubusercontent.com/76389609/170305896-2cad9d6f-be59-4af5-afa9-16e184a98473.png)
 
 
