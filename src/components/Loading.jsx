@@ -5,7 +5,7 @@ export default class Loading extends Component {
     return (
       <div className='d-flex justify-content-center align-items-center mb-2 ' style={{ width: "100wh", height: "70vh" }}>
         <img src={loader} alt=".." style={{
-          width: "50px", height: "50px", backgroundColor: " linear-gradient(to right, rgb(179, 17, 17), rgb(112, 112, 138))",
+          width: "130px", height: "130px", backgroundColor: " linear-gradient(to right, rgb(179, 17, 17), rgb(112, 112, 138))",
         }} />
       </div>
     )
