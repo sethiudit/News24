@@ -1,22 +1,24 @@
-*{
-    margin:0;
-    padding:0;
-   
+* {
+    margin: 0;
+    padding: 0;
+
 }
-body{
+
+body {
     overflow-x: hidden;
     /* background: linear-gradient(to right, rgb(179, 17, 17), rgb(112, 112, 138)); */
 
 }
 
-.nav_editor{
-    color:rgb(2, 131, 39);
-    font-size:25px;
+.nav_editor {
+    color: rgb(2, 131, 39);
+    font-size: 25px;
     font-style: italic;
 }
-.nav_editor span{
-    font-size:35px;
-    color:rgb(220, 15, 15);
+
+.nav_editor span {
+    font-size: 35px;
+    color: rgb(220, 15, 15);
     font-weight: 500;
     font-style: italic;
 
