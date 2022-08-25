@@ -63,7 +63,7 @@ export default class News extends Component {
 
             <div className="container my-3 ">
                 <div className="row mb-3">
-                    <h2 className='text-center ' style={{marginTop:'70px'}}>{`NewsZilla- Top ${category} Headlines`}</h2>
+                    <h2 className='text-center ' style={{marginTop:'70px'}}>{`News24- Top ${category} Headlines`}</h2>
                 </div>
                 {this.state.loader && <Loading />}
                 <div className='row'>
